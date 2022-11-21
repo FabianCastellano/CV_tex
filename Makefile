@@ -1,5 +1,5 @@
-PROJECT=alex_norton_modern_resume
-COVER=alex_norton_cover_letter
+PROJECT=fabian_castellano_modern_resume_spanish
+COVER=alex_norton_cover_letter_spanish
 TEX=lualatex
 BUILDTEX=$(TEX) $(PROJECT).tex
 

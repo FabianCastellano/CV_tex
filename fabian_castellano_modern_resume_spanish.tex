@@ -1,0 +1,103 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+\documentclass{my_cv}
+ 
+% adjust the page margins
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+% personal data
+%\extrainfo{additional information}                 % optional, remove / comment the line if not wanted
+%photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+
+%\quote{Seeking a full time position in software development }                                 
+
+% to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
+%\makeatletter
+%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+%\makeatother
+%\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}% CONSIDER REPLACING THE ABOVE BY THIS
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+%-----       resume       ---------------------------------------------------------
+\makecvtitle
+\vspace*{-1cm}
+
+\section{Educaci\'on \faBook} 
+\cventry{2016--Actualidad}{\degree}{\college}{\valpoC}{}{}  % arguments 3 to 6 can be left empty
+\begin{itemize}
+\item Es un profesional con una formación de carácter general e integral, lo que le permiten enfrentar con éxito, bajo el uso de un enfoque sist\'emico, la resolución de problemas que requieran de capacidad analítica y de pensamiento l\'ogico.
+%\item Studied business information technology, Oxford Brookes University,
+%  England, Spring 2015 
+\end{itemize}
+
+\section{Experiencia Laboral \faSuitcase}
+\cventry{Verano 2018}{Practicante Data Science}{WalMart}{Santiago, Chile}{}{An\'alisis de datos con el objetivo de agrupar tiendas.}
+\begin{itemize}
+\item Dise\~no e implementaci\'on de un modelo de comparaci\'on de tiendas.
+\item Cruce de datos internos con bases de datos p\'ublicas.
+\end{itemize}
+\cventry{2019--Actualidad}{Barista y Soporte T\'ecnico}{\href{https://www.tallercafe.cl/}{TallerCaf\'e}}{\valpoC}{}{Preparaci\'on de caf\'e de alta calidad, atenci\'on al p\'ublico, y mantenci\'on de sistemas de ventas.}  % arguments 3 to 6 can be left empty
+\begin{itemize}
+\item Preparaci\'on de caf\'e de especialidad en distintas modalidades
+\item Mantenci\'on e implementaci\'on de nuevas funionalidades en su plataforma de Shopify.
+\end{itemize}
+\cventry{2017--Actualidad}{Ayudante}{\usm}{\valpoC}{}{Clases de apoyo para reforzar materias vistas en clases.}  % arguments 3 to 6 can be left empty
+\begin{itemize}
+\item Realizaci\'on de c\'atedras semanales.
+\item Revisión y evaluaci\'on de controles.
+\end{itemize}
+
+
+\cventry{2017--2020}{Freelancer}{Profesor Particular}{\valpoC}{}{Realizar clases particulares de matemáticas universitarias y programación básica en Python.}
+
+
+%\cvitemwithcomment{Entrepreneur Club Treasurer}{Financed campus events: pitching
+%competitions, hackathons, meet ups}{}
+
+\section{Proyectos \faCogs}
+%\cventry{2015}{ESN Developer}{ Website Maintainer }{Oxford Brookes}{}{}
+%\begin{itemize}
+%\item Create content and perform updates on Oxford Brookes ESN website
+%\end{itemize}
+\cventry{2022--Actualidad}{\href{https://fabiancastellano.github.io}{fabiancastellano.github.io}}{Website Personal }{Proyecto Personal}{}{}  % arguments 3 to 6 can be left empty
+\begin{itemize}
+\item Desarrollo de una p\'agina web personal como portafolio, y blog sobre temas de interes.
+\item Documentación de procesos de trabajo y proyectos personales. 
+\end{itemize}
+
+\cventry{2022--Actualidad}{Estudio de la transformaci\'on de Box-Cox en im\'agenes}{Memor\'ia de T\'itulo}{\usm}{}{}  % arguments 3 to 6 can be left empty
+\begin{itemize}
+\item Estudio de la correlaci\'on entre una im\'agen y su transformada.
+\item Estudio de la transformaci\'on de BoxCox como un paso de preprosesacimiento en un algoritmo de clasificaci\'on.
+\end{itemize}
+
+\section{Habilidades \faBullseye}
+%\cvlistdoubleitem{Ruby/Rails}{Linux }
+\cvlistdoubleitem{Python [Avanzado]}{R [B\'asico]} 
+\cvlistdoubleitem{CSS y HTML [B\'asico]}{Git/GitHub}
+\cvlistdoubleitem{Ingl\'es [Avanzado]}{\LaTeX}
+
+\cvlistdoubleitem{Microsoft Word y Excel [Intermerdio]}{}
+
+% \cvlistdoubleitem{\LaTeX}{Swift (iOS Development)}
+
+%\section{Familiar With \faPlusSign}
+%\cvlistdoubleitem{Adobe Illustrator}{CSS/SASS} 
+\section{Otros \faPaperPlane}
+Disponibilidad inmediata, con domicilio en {\valpo}  y Santiago, con disponibilidad para trabajo remoto, semi-remoto, y reubicaci\'on de ser necesario. 
+
+%\clearpage\end{CJK*}                              % if you are typesetting your resume in Chinese using CJK; the \clearpage is required for fancyhdr to work correctly with CJK, though it kills the page numbering by making \lastpage undefined
+\end{document}
