@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1669060134 "c:/Users/Fabia/Documents/code/CV_tex/fabian_castellano_modern_resume.tex" "fabian_castellano_modern_resume.pdf" "fabian_castellano_modern_resume" 1669060135
-  "c:/Users/Fabia/Documents/code/CV_tex/fabian_castellano_modern_resume.tex" 1669060133 5788 c374044cb699e12c1a5d35eced12be6f ""
+["pdflatex"] 1669383036 "c:/Users/Fabia/Documents/code/CV_tex/fabian_castellano_modern_resume.tex" "fabian_castellano_modern_resume.pdf" "fabian_castellano_modern_resume" 1669383038
+  "c:/Users/Fabia/Documents/code/CV_tex/fabian_castellano_modern_resume.tex" 1669323343 5739 8d6b6736ae7e017c531b24d312970893 ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1653353446 2920 d63721872b8c77041b88e51b8f7c291d ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1653353446 3083 a707712f77b073b3833e4b1334a30e99 ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1653353446 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -210,9 +210,9 @@
   "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1653357669 4628057 1230c9ff463314e58cdc6fb8d990e1df ""
   "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1653357834 2828203 6285c722b9fed8c00024fbe53a1317cd ""
   "c:/texlive/2022/texmf.cnf" 1653357647 713 e69b156964470283e0530f5060668171 ""
-  "fabian_castellano_modern_resume.aux" 1669060135 1075 7ac904a256edce3378a05e42c7e0522d "pdflatex"
-  "fabian_castellano_modern_resume.out" 1669060135 478 9b80cbeae111f2f1d2871466bbce0aab "pdflatex"
-  "fabian_castellano_modern_resume.tex" 1669060133 5788 c374044cb699e12c1a5d35eced12be6f ""
+  "fabian_castellano_modern_resume.aux" 1669383038 1075 7ac904a256edce3378a05e42c7e0522d "pdflatex"
+  "fabian_castellano_modern_resume.out" 1669383038 478 9b80cbeae111f2f1d2871466bbce0aab "pdflatex"
+  "fabian_castellano_modern_resume.tex" 1669323343 5739 8d6b6736ae7e017c531b24d312970893 ""
   "my_cv.cls" 1669051479 2061 10e23f3f27a3dc927ad8f4ba25cee0e1 ""
   (generated)
   "fabian_castellano_modern_resume.aux"
