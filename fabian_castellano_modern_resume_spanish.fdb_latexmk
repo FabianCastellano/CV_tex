@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1669383041 "c:/Users/Fabia/Documents/code/CV_tex/fabian_castellano_modern_resume_spanish.tex" "fabian_castellano_modern_resume_spanish.pdf" "fabian_castellano_modern_resume_spanish" 1669383043
-  "c:/Users/Fabia/Documents/code/CV_tex/fabian_castellano_modern_resume_spanish.tex" 1669323343 5741 0af9e296ac7ebca8612784b2c996c6e5 ""
+["pdflatex"] 1676136396 "c:/Users/Fabia/Documents/code/CV_tex/fabian_castellano_modern_resume_spanish.tex" "fabian_castellano_modern_resume_spanish.pdf" "fabian_castellano_modern_resume_spanish" 1676136398
+  "c:/Users/Fabia/Documents/code/CV_tex/fabian_castellano_modern_resume_spanish.tex" 1676136394 5741 faa1de3e586e4bb41344f96b392e45f5 ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1653353446 2920 d63721872b8c77041b88e51b8f7c291d ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1653353446 3083 a707712f77b073b3833e4b1334a30e99 ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1653353446 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -210,9 +210,9 @@
   "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1653357669 4628057 1230c9ff463314e58cdc6fb8d990e1df ""
   "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1653357834 2828203 6285c722b9fed8c00024fbe53a1317cd ""
   "c:/texlive/2022/texmf.cnf" 1653357647 713 e69b156964470283e0530f5060668171 ""
-  "fabian_castellano_modern_resume_spanish.aux" 1669383043 1086 8bc98fea471e2fb6fa1a723cdf9ceb54 "pdflatex"
-  "fabian_castellano_modern_resume_spanish.out" 1669383043 526 22dd411d6d2c1bf971c8a0a01e7a9902 "pdflatex"
-  "fabian_castellano_modern_resume_spanish.tex" 1669323343 5741 0af9e296ac7ebca8612784b2c996c6e5 ""
+  "fabian_castellano_modern_resume_spanish.aux" 1676136397 1086 8bc98fea471e2fb6fa1a723cdf9ceb54 "pdflatex"
+  "fabian_castellano_modern_resume_spanish.out" 1676136397 526 22dd411d6d2c1bf971c8a0a01e7a9902 "pdflatex"
+  "fabian_castellano_modern_resume_spanish.tex" 1676136394 5741 faa1de3e586e4bb41344f96b392e45f5 ""
   "my_cv.cls" 1669051479 2061 10e23f3f27a3dc927ad8f4ba25cee0e1 ""
   (generated)
   "fabian_castellano_modern_resume_spanish.aux"
